@@ -2,6 +2,14 @@
 
 A modern, fast, and elegant Movies & TV Shows Application built with **Flutter**. This app fetches real-time data from **The Movie Database (TMDB) API** to provide users with the latest cinematic information.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/image/tv.png" width="350" title="Tv">
+  <img src="assets/image/movies.png" width="350" title="Movies">
+  <img src="assets/image/details.png" width="350" title="Details">
+</p>
+
 ## ✨ Features
 
 *   **Discover Movies & TV:** Explore Popular, Top Rated, and Upcoming content in a beautiful carousel and list view.
@@ -24,12 +32,17 @@ A modern, fast, and elegant Movies & TV Shows Application built with **Flutter**
 
 ## 🛠️ Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
+   ```bash
    git clone https://github.com/arifhossain07/flutter-movie-app.git
+   ```
 
-2. Install dependencies:
+2. **Install dependencies:**
+   ```bash
    flutter pub get
+   ```
 
-3. Run the app:
+3. **Run the app:**
+   ```bash
    flutter run
-    
+   ```
